@@ -177,6 +177,7 @@ img {
     object-fit: cover;
     object-position: left;
     overflow: hidden;
+    border-radius: 0.8rem 0rem 0rem 0.8rem;
   }
 
   .article-description {
