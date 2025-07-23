@@ -137,7 +137,6 @@ img {
   display: flex;
   align-items: center;
   gap: 1.4em;
-  transition: all 0.4s ease-in-out;
 }
 
 .hidden {
